@@ -45,14 +45,10 @@ Building for Production
 
 To create a production build, run:
 
-bash
-
 npm run build
 
 This will generate the bundled files in the dist/ directory.
 Project Structure
-
-bash
 
 .
 ├── public/                 # Static assets like GLTF model and textures
