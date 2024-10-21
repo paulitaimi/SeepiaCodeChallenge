@@ -48,19 +48,3 @@ To create a production build, run:
 npm run build
 
 This will generate the bundled files in the dist/ directory.
-Project Structure
-
-.
-├── public/                 # Static assets like GLTF model and textures
-│   ├── ninja.png
-│   └── cibus_ninja.glb
-├── src/
-│   ├── background.ts       # PixiJS background rendering logic
-│   ├── 3dModel.ts          # Three.js 3D model loading and rendering logic
-│   ├── index.ts            # Entry point of the application
-│   └── styles.css          # Styles for canvas layering
-├── dist/                   # Bundled files (generated after build)
-├── package.json            # Project dependencies and scripts
-├── tsconfig.json           # TypeScript configuration
-├── webpack.config.js       # Webpack configuration
-└── README.md               # 
