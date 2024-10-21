@@ -41,6 +41,8 @@ Running the Project
 
     Open your browser and go to http://localhost:8080. You should see both the PixiJS background and the Three.js 3D model.
 
+    Use Arrow keys to move the model 
+
 Building for Production
 
 To create a production build, run:
