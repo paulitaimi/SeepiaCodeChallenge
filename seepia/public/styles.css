@@ -1,0 +1,14 @@
+canvas.pixi {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1; 
+  }
+  
+  canvas.three {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2; 
+  }
+  
